@@ -1,0 +1,5 @@
+train: /mnt/beegfs/lcesarini/2021_power_grid/data/yolov5/train/images
+val: /mnt/beegfs/lcesarini/2021_power_grid/data/yolov5/valid/images
+
+nc: 10
+names: ['mono_10', 'mono_7', 'mono_8', 'mono_9', 'ss_1', 'ss_2', 'ss_3', 'ss_4', 'wt_5', 'wt_6']
